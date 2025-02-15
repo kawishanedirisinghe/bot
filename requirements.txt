@@ -1,2 +1,3 @@
-Telethon>=1.28.0
-requests>=2.25.1
+Telethon
+requests
+flask
